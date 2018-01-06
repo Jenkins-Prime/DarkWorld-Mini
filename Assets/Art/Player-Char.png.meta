@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: e7dd5435a03c03246afb2c1de271a761
-timeCreated: 1514298712
+timeCreated: 1515265394
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -20,6 +20,31 @@ TextureImporter:
     21300026: Player-Char_13
     21300028: Player-Char_14
     21300030: Player-Char_15
+    21300032: Player-Char_16
+    21300034: Player-Char_17
+    21300036: Player-Char_18
+    21300038: Player-Char_19
+    21300040: Player-Char_20
+    21300042: Player-Char_21
+    21300044: Player-Char_22
+    21300046: Player-Char_23
+    21300048: Player-Char_24
+    21300050: Player-Char_25
+    21300052: Player-Char_26
+    21300054: Player-Char_27
+    21300056: Player-Char_28
+    21300058: Player-Char_29
+    21300060: Player-Char_30
+    21300062: Player-Char_31
+    21300064: Player-Char_32
+    21300066: Player-Char_33
+    21300068: Player-Char_34
+    21300070: Player-Char_35
+    21300072: Player-Char_36
+    21300074: Player-Char_37
+    21300076: Player-Char_38
+    21300078: Player-Char_39
+    21300080: Player-Char_40
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -98,7 +123,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 0
-        y: 224
+        y: 608
         width: 32
         height: 32
       alignment: 0
@@ -112,7 +137,7 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 32
-        y: 224
+        y: 608
         width: 32
         height: 32
       alignment: 0
@@ -125,8 +150,8 @@ TextureImporter:
       name: Player-Char_2
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
+        x: 32
+        y: 576
         width: 32
         height: 32
       alignment: 0
@@ -139,8 +164,8 @@ TextureImporter:
       name: Player-Char_3
       rect:
         serializedVersion: 2
-        x: 32
-        y: 192
+        x: 0
+        y: 544
         width: 32
         height: 32
       alignment: 0
@@ -153,8 +178,8 @@ TextureImporter:
       name: Player-Char_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
+        x: 32
+        y: 544
         width: 32
         height: 32
       alignment: 0
@@ -167,8 +192,8 @@ TextureImporter:
       name: Player-Char_5
       rect:
         serializedVersion: 2
-        x: 32
-        y: 160
+        x: 0
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -181,8 +206,8 @@ TextureImporter:
       name: Player-Char_6
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
+        x: 32
+        y: 512
         width: 32
         height: 32
       alignment: 0
@@ -195,8 +220,8 @@ TextureImporter:
       name: Player-Char_7
       rect:
         serializedVersion: 2
-        x: 32
-        y: 128
+        x: 0
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -209,8 +234,8 @@ TextureImporter:
       name: Player-Char_8
       rect:
         serializedVersion: 2
-        x: 0
-        y: 96
+        x: 32
+        y: 480
         width: 32
         height: 32
       alignment: 0
@@ -223,8 +248,8 @@ TextureImporter:
       name: Player-Char_9
       rect:
         serializedVersion: 2
-        x: 32
-        y: 96
+        x: 0
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -237,8 +262,8 @@ TextureImporter:
       name: Player-Char_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 32
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -251,6 +276,328 @@ TextureImporter:
       name: Player-Char_11
       rect:
         serializedVersion: 2
+        x: 0
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_12
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_14
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_16
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_20
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_22
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_28
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Player-Char_34
+      rect:
+        serializedVersion: 2
         x: 32
         y: 64
         width: 32
@@ -262,7 +609,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player-Char_12
+      name: Player-Char_35
       rect:
         serializedVersion: 2
         x: 0
@@ -276,7 +623,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player-Char_13
+      name: Player-Char_36
       rect:
         serializedVersion: 2
         x: 32
@@ -290,7 +637,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player-Char_14
+      name: Player-Char_37
       rect:
         serializedVersion: 2
         x: 0
@@ -304,7 +651,7 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Player-Char_15
+      name: Player-Char_38
       rect:
         serializedVersion: 2
         x: 32
