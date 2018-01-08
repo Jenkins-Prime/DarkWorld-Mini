@@ -51,17 +51,17 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\AntiGrav.cs" />
-     <Compile Include="Assets\BugLights.cs" />
-     <Compile Include="Assets\CoinPickup.cs" />
-     <Compile Include="Assets\CurrencyManager.cs" />
-     <Compile Include="Assets\DestroyInvisibleObject.cs" />
-     <Compile Include="Assets\DestroyViaProjectile.cs" />
-     <Compile Include="Assets\Destructible.cs" />
-     <Compile Include="Assets\FireballBehaviour.cs" />
-     <Compile Include="Assets\PlayerController.cs" />
-     <Compile Include="Assets\PlayerProjectiles.cs" />
-     <Compile Include="Assets\PurityField.cs" />
+     <Compile Include="Assets\Scripts\AntiGrav.cs" />
+     <Compile Include="Assets\Scripts\BugLights.cs" />
+     <Compile Include="Assets\Scripts\CoinPickup.cs" />
+     <Compile Include="Assets\Scripts\CurrencyManager.cs" />
+     <Compile Include="Assets\Scripts\DestroyInvisibleObject.cs" />
+     <Compile Include="Assets\Scripts\DestroyViaProjectile.cs" />
+     <Compile Include="Assets\Scripts\Destructible.cs" />
+     <Compile Include="Assets\Scripts\FireballBehaviour.cs" />
+     <Compile Include="Assets\Scripts\PlayerController.cs" />
+     <Compile Include="Assets\Scripts\PlayerProjectiles.cs" />
+     <Compile Include="Assets\Scripts\PurityField.cs" />
      <None Include="Assets\LightShader.shader" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
